@@ -1,0 +1,9 @@
+@import "../../variables.scss";
+
+.pageContainer {
+  max-width: calc(100vw - 458px);
+  padding: 10px $spacing-06 0;
+  box-sizing: border-box;
+  position: absolute;
+  text-align: left;
+}
